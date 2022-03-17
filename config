@@ -1,1 +1,20 @@
-fI88wowqV7btJ0Of+CohhkyJXfTXJcIKm5LeYCCuhs9B06rvVvC2ktAi8ibe7K4kaWoBDcK2dnTVfGjOV97QX2tKfYfF4+7Sm5f3ax0HbQ8qxZiqz7uApyVCJbqU/U7wfcsEco9bhu5yM5+CQt6lNL3KLP1X/JrKeDYfGYD7ezAVmXlfB1LwYIMJwYx2UgmcKmnoHjzZOZkDv3alCoBVqW8gpH91+xUQHbTbl/dQW6DNgzTlRMQGf+ZY0Yb2ax+H+fBnR3RMYTMzUe/qtDgR8DcuX7cOqXJXBHcqOVLz5OTxgCU/xrZ22hn4yQNrzUFzG2OgJC//vvFxAHu2VhglNjCuOG9WN0Awoyl4mMLrD3NSLDqWe87hHcK7rH5Iec1Els9yD90LgUzerCwJ7fIH8fnNzM7bWSzvt8dbSLKuEzjd+KBfrOheKc7cVlUSVFyX/PZ5dnIlw1jkj8DiNNDnfDe00HXLDAC7wC7PMSqkHfUQ35X3O13hzQ46+veOlI4XhxBSs8ripnGoquzJ6X7ndoHbYVQECvHtklThyWHWyoPzkGM0c6S32uFp46zSKICSpjykwnNRjjD7AxkTC//RWiEoF7cdzZ8e2qesb2xuzBriq3/A5htku/GUBKT3ZM4Iupw5nhqk4AwF8Gn6rUGtjY7y4znWLqFYfTvYABgwXJC190efC+5lOVsRZx/YGr0155X8XxdQfl8I+xEzAdE4j8fc8LommUSZHGEL+ANbhn4wH0MZ0M3MDaKBpfIl8VFUzMXaCQyyQrmZ0F8oRNJx9w==
+{
+ "Version": "1.0.0",
+ "ReleaseNotes": "THE POWER OF GAMBARE\n\n---------------------------------------------------\n    - TSEL UNLI TEST SERVER\n    - AXIS GAME TEST SERVER\n---------------------------------------------------\n\nDEVELOPER  OF DRXALEXA\n         ",
+ "Servers": [
+  {
+   "Name": "TSEL",
+   "FLAG": "sg",
+   "ServerIP": "spp-1.ipservers.me",
+   "ServerPort": "80",
+   "SSLPort": "443",
+   "ProxyIP": "",
+   "ProxyPort": "",
+   "ServerUser": "jupitervpn-drix0",
+   "ServerPass": "drix0",
+   "TunnelType": 1,
+   "SNI": "v.musical.ly",
+   "Info": "DRIXALEXA"
+  }
+ ]
+}
